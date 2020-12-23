@@ -4,6 +4,8 @@
 
 ## Inspiration
 
+STICKODE는 JetBrains, VSCODE 확장프로그램으로 코드자동완성 서비스를 제공합니다.
+
 로우코드, 노코드 시대에 관련한 서비스를 만들어보고 싶다고 생각해서 참여하게 된 프로젝트입니다.
 
 ## What it does
